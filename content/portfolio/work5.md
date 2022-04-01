@@ -1,5 +1,5 @@
 +++
-image = "https://github.com/kishaningithub/hugo-creative-portfolio-theme/raw/master/exampleSite/static/img/portfolio/business-card.jpg"
+image = "https://github.com/dombraccia/rip-art/static/img/portfolio/domenick.png"
 showonlyimage = true
 draft = false
 date = "2016-11-05T19:53:42+05:30"
